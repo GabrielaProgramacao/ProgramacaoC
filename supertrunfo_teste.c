@@ -40,7 +40,7 @@ int main(){
     printf("PIB: %.2f bilhões de reais\n", pib);
     printf("Número de Pontos Turisticos: %d\n", pontos);
 
-    
+    printf("CARTA 02 \n");
     printf("Digite seu estado: \n");
     scanf("%s", &estado);
     
