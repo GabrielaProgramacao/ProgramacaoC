@@ -14,10 +14,10 @@ int main(){
     scanf("%s", &estado);
     
     printf("Digite o Código da Cidade: \n");
-    scanf("%s", &codigo);
+    scanf("%s", codigo);
     
     printf("Digite o nome da cidade: \n");
-    scanf("%s", &nome);
+    scanf("%s", nome);
     
     printf("Digite a População: \n");
     scanf("%d", &populacao);
@@ -32,9 +32,9 @@ int main(){
     scanf("%d", &pontos);
 
     printf("Carta 01\n");
-    printf("Estado: %s\n", &estado);
-    printf("Código da Cidade: %s\n", &codigo);
-    printf("Nome da Cidade: %s\n", &nome);
+    printf("Estado: %s\n", estado);
+    printf("Código da Cidade: %s\n", codigo);
+    printf("Nome da Cidade: %s\n", nome);
     printf("População: %d habitantes\n", populacao);   
     printf("Área em km²: %.3f km²\n", area);
     printf("PIB: %.2f bilhões de reais\n", pib);
@@ -45,10 +45,10 @@ int main(){
     scanf("%s", &estado);
     
     printf("Digite o Código da Cidade: \n");
-    scanf("%s", &codigo);
+    scanf("%s", codigo);
     
     printf("Digite o nome da cidade: \n");
-    scanf("%s", &nome);
+    scanf("%s", nome);
     
     printf("Digite a População: \n");
     scanf("%d", &populacao);
